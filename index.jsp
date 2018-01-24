@@ -1,0 +1,6 @@
+<% 
+
+a="Rounak";
+welcome{a};
+
+%>
